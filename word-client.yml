@@ -22,6 +22,8 @@ words: a,the
 ---
 spring:
   profiles: adjective
+  application:
+    name: lab-4-adjective-cloud-config
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
